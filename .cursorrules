@@ -1,0 +1,22 @@
+Cursor Rules:
+
+- Usa Next.js con App Router y TypeScript.
+- Usa Tailwind CSS para todo el diseño.
+- Usa componentes reutilizables y bien separados.
+- Usa Framer Motion para animaciones suaves.
+- Mantén el código limpio, legible y escalable.
+- No uses texto placeholder como lorem ipsum.
+- Todo el contenido debe venir completo y listo para usar.
+- Crea un diseño moderno, juvenil, educativo y altamente interactivo.
+- Prioriza excelente experiencia visual en secundaria.
+- Haz que el sitio sea completamente responsive.
+- Usa buenas prácticas de accesibilidad.
+- Minimiza dependencias innecesarias.
+- Usa imágenes remotas bien organizadas o placeholders elegantes.
+- Incluye un quiz final funcional con puntaje.
+- Incluye una actividad interactiva de clasificar usos positivos vs incorrectos.
+- Usa datos centralizados en archivos separados cuando convenga.
+- Evita componentes gigantes; divide por secciones.
+- Usa nombres de componentes claros.
+- Crea una interfaz atractiva tipo landing educativa interactiva.
+- Mantén consistencia visual entre todas las secciones.
